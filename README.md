@@ -22,13 +22,13 @@ Tamamen responsive tasarım sayesinde masaüstü, tablet ve mobil cihazlarda sor
 ---
 
 ## 📂 Proje Yapısı
-hotel-site/
-│
-├── index.html
-├── style.css
-├── utils.css
-├── /img # Görseller
-└── README.md
+    hotel-site/
+    │
+    ├── index.html
+    ├── style.css
+    ├── utils.css
+    ├── /img # Görseller
+    └── README.md
 
 ---
 
@@ -37,11 +37,8 @@ hotel-site/
    ```bash
    git clone https://github.com/talhapakdil7/hotel-site.git
 Klasöre gir:
+2. cd hotel-site
 
-bash
-Kopyala
-Düzenle
-cd hotel-site
 index.html dosyasını tarayıcıda aç.
 
 📱 Özellikler
