@@ -199,3 +199,26 @@ img {
 .card-body {
   padding: 2rem;
 }
+
+/* mobile */
+
+@media (max-width: 768px) {
+  html {
+    font-size: 8px;
+  }
+  .navbar {
+    flex-direction: column;
+    height: 100px;
+    justify-content: center;
+  }
+  .navbar ul {
+    margin-top: 12px;
+  }
+  #teams img {
+    width: 70%;
+  }
+
+  .flex-grid .column {
+    flex: 50%;
+  }
+}

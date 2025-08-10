@@ -164,10 +164,52 @@
 
 /* teams */
 
-.teams .flex-items img {
+#teams img {
   border-radius: 50%;
 }
 
-.teams img:hover {
+#teams img:hover {
   opacity: 0.7;
+}
+
+/* contact */
+
+.contact-form {
+  width: 100%;
+  padding: 2rem 0;
+}
+
+.control-form label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+.control-form input {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  padding: 0.5rem;
+  height: 40px;
+  border: 1px #f8f9fa;
+  border-radius: 2rem;
+}
+
+.contact-form .btn {
+  padding: 1rem 2rem;
+  margin-top: 1rem;
+}
+.contact h2 {
+  font-size: 4rem;
+}
+
+@media (max-width: 768px) {
+  .flex-items {
+    flex-direction: column !important;
+  }
+  .flex-items .card {
+    width: 70%;
+    justify-content: center;
+    margin-left: 15%;
+  }
+  .flex-columns .column {
+    flex: 100% !important;
+  }
 }
