@@ -37,13 +37,15 @@ Tamamen responsive tasarım sayesinde masaüstü, tablet ve mobil cihazlarda sor
    ```bash
    git clone https://github.com/talhapakdil7/hotel-site.git
 
+
 2. Klasöre gir:
  
-```bash
-cd hotel-site
+   ```bash
+   cd hotel-site
 
 
-index.html dosyasını tarayıcıda aç.
+
+---
 
 📱 Özellikler
 🌐 Tamamen responsive tasarım
@@ -53,4 +55,6 @@ index.html dosyasını tarayıcıda aç.
 🖌 Modern ve temiz kullanıcı arayüzü
 
 📱 Mobil uyumlu navigasyon menüsü
+
+
 
