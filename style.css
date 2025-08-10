@@ -121,3 +121,81 @@ img {
   max-width: 500px;
   margin: 2rem 0 3rem;
 }
+
+/* icons */
+
+.icons {
+  padding: 20px;
+}
+.icons > div {
+  font-weight: 400;
+}
+.icons h3 {
+  font-weight: 400;
+  margin-bottom: 15px;
+}
+.icons i {
+  background-color: var(--primary);
+  color: #fff;
+  padding: 1rem;
+  border-radius: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+/* about */
+
+.about {
+  color: #fff;
+}
+.about h2 {
+  font-size: 4rem;
+  font-weight: 400;
+}
+.about p {
+  margin: 2rem 0;
+}
+
+/* flexgrid */
+
+.flex-grid .row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 0.4rem;
+}
+.flex-grid .column {
+  flex: 25%;
+  padding: 0 0.4rem;
+}
+
+/* section */
+
+.section-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.section-header h2 {
+  font-weight: 400;
+  font-size: 4rem;
+  margin: 2rem 0;
+}
+.section-padding {
+  padding: 2rem 2rem 4rem;
+}
+.gallery img:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+/* card */
+
+.card {
+  font-weight: 300;
+  color: #fff;
+}
+.card-body {
+  padding: 2rem;
+}
