@@ -12,7 +12,7 @@ Tamamen responsive tasarım sayesinde masaüstü, tablet ve mobil cihazlarda sor
 ---
 
 ## 📸 Ekran Görüntüsü
-![Hotel Site Screenshot](./img/about2.jpeg)  
+![Hotel Site Screenshot](./img/Screenshot 2025-08-10 at 17.34.56.png)  
 
 ---
 
