@@ -11,10 +11,6 @@ Tamamen responsive tasarım sayesinde masaüstü, tablet ve mobil cihazlarda sor
 
 ---
 
-## 📸 Ekran Görüntüsü
-![Hotel Site Screenshot](./img/Screenshot2025-08-10at17.34.56.png)  
-
----
 
 ## 🛠 Kullanılan Teknolojiler
 - **HTML5**
