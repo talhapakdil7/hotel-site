@@ -13,7 +13,6 @@ Tamamen responsive tasarım sayesinde masaüstü, tablet ve mobil cihazlarda sor
 
 ## 📸 Ekran Görüntüsü
 ![Hotel Site Screenshot](./img/about2.jpeg)  
-> *Görseli değiştirmek için projenin ana ekran görüntüsünü `img` klasörüne ekleyip bu linki güncelle.*
 
 ---
 
@@ -34,10 +33,6 @@ hotel-site/
 ├── utils.css
 ├── /img # Görseller
 └── README.md
-
-yaml
-Kopyala
-Düzenle
 
 ---
 
