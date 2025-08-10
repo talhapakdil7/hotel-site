@@ -44,7 +44,6 @@ Tamamen responsive tasarım sayesinde masaüstü, tablet ve mobil cihazlarda sor
    cd hotel-site
 
 
-
 ---
 
 📱 Özellikler
