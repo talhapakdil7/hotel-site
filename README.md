@@ -36,9 +36,11 @@ Tamamen responsive tasarım sayesinde masaüstü, tablet ve mobil cihazlarda sor
 1. Depoyu klonla:
    ```bash
    git clone https://github.com/talhapakdil7/hotel-site.git
-Klasöre gir:
-2. 
-`cd hotel-site`
+
+2. Klasöre gir:
+ 
+```bash
+cd hotel-site
 
 
 index.html dosyasını tarayıcıda aç.
